@@ -1,1 +1,1 @@
-export const loggerName = 'Old Logger'
+export const loggerName = 'New Logger'
