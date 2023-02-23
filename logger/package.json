@@ -1,0 +1,10 @@
+{
+  "name": "@dtaran/logger",
+  "version": "1.0.0",
+  "description": "Simple logger",
+  "main": "index.js",
+  "license": "ISC",
+  "peerDependencies": {
+    "@dtaran/logger-name": "^1"
+  }
+}

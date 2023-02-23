@@ -1,0 +1,7 @@
+{
+  "name": "@dtaran/logger-name",
+  "version": "1.0.0",
+  "description": "Simple logger name",
+  "main": "index.js",
+  "license": "ISC"
+}
